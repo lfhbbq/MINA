@@ -25,3 +25,19 @@ The overall framework of MINA is shown below. MINA first extracts multimodal fea
 - Introduce a **role-play-based intention filtering strategy** to automatically remove unreasonable or irrelevant generated intentions.
 - Construct a benchmark based on **Twibot-22 tweets** to evaluate model performance on social media intention understanding.
 - Demonstrate that MINA-generated intention knowledge can benefit downstream social media analysis tasks such as bot detection and sarcasm detection.
+
+
+## Citation
+
+If you find this repository useful, please cite our paper:
+
+```bibtex
+@article{lu2026mina,
+  title={MINA: Multimodal intention analysis of social media posts via LLM-guided audio-visual-text reasoning},
+  author={Lu, Feihong and Yang, Tao and Zhu, Ziqin and Huang, Yudi and Gao, Shiqi and Luo, Yangyifei and Wang, Zengxu and Li, Qian and Sun, Qingyun and Li, Jianxin},
+  journal={Pattern Recognition},
+  volume={179},
+  pages={113700},
+  year={2026},
+  publisher={Elsevier}
+}
