@@ -15,7 +15,7 @@ Based on this framework, we build a benchmark on **Twibot-22 tweets** for evalua
 
 The overall framework of MINA is shown below. MINA first extracts multimodal features from text, image, audio, and video inputs. Then, an LLM-guided strategy generation and evaluation module dynamically produces and refines intention analysis strategies. The selected strategy guides the LLM to generate user intentions, which are further filtered to construct high-quality multimodal intention knowledge.
 
-![MINA Framework](./assets/MINA_framework.png)
+![MINA Framework](./framework/MINA_framework.png)
 
 ## Contribution
 
