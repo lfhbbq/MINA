@@ -1,6 +1,8 @@
 # MINA: Multimodal Intention Analysis of Social Media Posts via LLM-Guided Audio-Visual-Text Reasoning
 
-This repository provides the benchmark data for our paper **MINA: Multimodal Intention Analysis of Social Media Posts via LLM-Guided Audio-Visual-Text Reasoning**.
+This repository provides the benchmark data for our paper **MINA: Multimodal Intention Analysis of Social Media Posts via LLM-Guided Audio-Visual-Text Reasoning**, published in **Pattern Recognition, 2026**.
+
+📄 Paper: [MINA: Multimodal Intention Analysis of Social Media Posts via LLM-Guided Audio-Visual-Text Reasoning](https://www.sciencedirect.com/science/article/pii/S0031320326006655)]
 
 ## Overview
 
